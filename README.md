@@ -30,8 +30,8 @@ Follow these steps to set up the project on your local machine.
 1. **Clone the repository**
 
     ```sh
-    git clone https://github.com/your-username/todo-app.git
-    cd todo-app
+    git clone https://github.com/your-username/tasker.git
+    cd tasker
     ```
 
 2. **Install dependencies**
